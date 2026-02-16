@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "titulo": "hegqbq",
+        "descripcion": "jfglwf.b",
+        "fecha": "2026-12-12",
+        "completada": false
+    },
+    {
+        "id": 2,
+        "titulo": "qwerqjgol",
+        "descripcion": "jewhrwrjn",
+        "fecha": "2026-12-12",
+        "completada": false
+    },
+    {
+        "id": 3,
+        "titulo": "Tarea",
+        "descripcion": "descripcoion",
+        "fecha": "2026-02-11",
+        "completada": true
+    },
+    {
+        "id": 4,
+        "titulo": "qeqweqweq",
+        "descripcion": "eqeqw",
+        "fecha": "2026-12-12",
+        "completada": true
+    },
+    {
+        "id": 5,
+        "titulo": "tarea",
+        "descripcion": "descripcion",
+        "fecha": "2026-11-11",
+        "completada": false
+    },
+    {
+        "id": 6,
+        "titulo": "1erwerw",
+        "descripcion": "rewrwe",
+        "fecha": "2026-11-11",
+        "completada": true
+    }
+]

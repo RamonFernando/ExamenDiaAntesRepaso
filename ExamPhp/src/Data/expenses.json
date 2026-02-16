@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "concepto": "comida",
+        "cantidad": 125,
+        "categoria": "comida",
+        "fecha": "2026-02-16"
+    }
+]
